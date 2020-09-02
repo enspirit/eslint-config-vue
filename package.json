@@ -1,0 +1,32 @@
+{
+  "name": "@enspirit/eslint-config-vue",
+  "version": "0.0.1",
+  "description": "Eslint config for Enspirit's vue projects",
+  "keywords": [
+    "eslint",
+    "eslintplugin",
+    "eslint-plugin"
+  ],
+  "author": "Louis Lambeau",
+  "main": "index.js",
+  "dependencies": {
+    "babel-eslint": "^10.1.0",
+    "@enspirit/eslint-config-node": "^0.0.6",
+    "eslint-plugin-vue": "^6.2.2"
+  },
+  "devDependencies": {
+    "eslint": "^7.1.0"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/enspirit/eslint-config-node.git"
+  },
+  "bugs": {
+    "url": "https://github.com/enspirit/eslint-config-node/issues"
+  },
+  "homepage": "https://github.com/enspirit/eslint-config-node#readme"
+}
