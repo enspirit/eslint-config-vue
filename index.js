@@ -5,7 +5,11 @@ module.exports = {
     'plugin:vue/recommended',
     '@enspirit/eslint-config-node'
   ],
+  parser: 'vue-eslint-parser',
   rules: {
     'vue/this-in-template': ['error', 'never']
+  },
+  parserOptions: {
+    parser: "babel-eslint"
   }
 }

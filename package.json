@@ -1,6 +1,6 @@
 {
   "name": "@enspirit/eslint-config-vue",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Eslint config for Enspirit's vue projects",
   "keywords": [
     "eslint",
@@ -10,7 +10,6 @@
   "author": "Louis Lambeau",
   "main": "index.js",
   "dependencies": {
-    "babel-eslint": "^10.1.0",
     "@enspirit/eslint-config-node": "^0.0.6",
     "eslint-plugin-vue": "^6.2.2"
   },
