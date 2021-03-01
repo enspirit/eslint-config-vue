@@ -10,7 +10,7 @@
   "author": "Louis Lambeau",
   "main": "index.js",
   "dependencies": {
-    "@enspirit/eslint-config-node": "^0.0.6",
+    "@enspirit/eslint-config-node": "^0.0.7",
     "eslint-plugin-vue": "^6.2.2"
   },
   "devDependencies": {
