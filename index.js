@@ -2,7 +2,7 @@ const consoleLogRule = process.env.NODE_ENV === 'production' ? ['error', { allow
 
 module.exports = {
   'extends': [
-    'plugin:vue/recommended',
+    'plugin:vue/vue3-recommended',
     '@enspirit/eslint-config-node'
   ],
   parser: 'vue-eslint-parser',
